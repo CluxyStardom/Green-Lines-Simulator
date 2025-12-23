@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Green Lines Simulator</string>
+    <string name="green">Green</string>
+    <string name="purple">Purple</string>
+    <string name="number_of_lines">Number of lines</string>
+    <string name="start_overlay">Start Overlay</string>
+    <string name="stop_overlay">Stop Overlay</string>
+    <string name="horizontal_lines">Horizontal Lines</string>
+    <string name="randomize_lines">Randomize Line Positions</string>
+    <string name="made_by">made by Cluxystardom</string>
+    <string-array name="line_count_array">
+        <item>1 line</item>
+        <item>2 lines</item>
+        <item>3 lines</item>
+        <item>4 lines</item>
+        <item>5 lines</item>
+        <item>6 lines</item>
+        <item>7 lines</item>
+        <item>8 lines</item>
+        <item>9 lines</item>
+        <item>10 lines</item>
+        <item>11 lines</item>
+        <item>12 lines</item>
+    </string-array>
+</resources>
